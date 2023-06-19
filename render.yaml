@@ -1,0 +1,11 @@
+version: 1
+build:
+  steps:
+    - name: Install Python
+      shell: bash
+      command: apt-get update && apt-get install -y python3
+    - name: Install dependencies
+      shell: bash
+      command: pip install -r requirements.txt
+run:
+  env: python3 app.py
