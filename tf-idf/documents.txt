@@ -138,7 +138,7 @@ maximum value at a given index in a bounded array
 minimum distance between bst nodes
 count servers that communicate
 count the number of square-free subsets
-number of ways to paint n � 3 grid
+number of ways to paint n ã— 3 grid
 next greater element i
 stone game vi
 combination sum
